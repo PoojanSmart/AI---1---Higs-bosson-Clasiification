@@ -10,7 +10,7 @@ These event data contains features like type, direction, energy. These features 
 when an event is unique and its feature space is disconnected from the ones previously observed in past experiments, a new particle deems to be discovered.
 Therefore, classification of these events holds lot of scope for future studies and experiments of the events classified as signal.
 
-![image](https://user-images.githubusercontent.com/44301271/185286112-e9293ac3-adcd-4083-9ede-bd51b0741bce.png)
+![image](https://github.com/PoojanSmart/AI-1-Higs-bosson-Clasiification/blob/main/images/lhc.jpg)
 
 ## Pipeline
 1. Data Loading
@@ -31,7 +31,7 @@ Therefore, classification of these events holds lot of scope for future studies 
 2. Gradient Boosting
 
 ## Results
-
+![image](https://github.com/PoojanSmart/AI-1-Higs-bosson-Clasiification/blob/main/images/roc%20curve.png)
 
 ## Participants
 - Poojan Smart
